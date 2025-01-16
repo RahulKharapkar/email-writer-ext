@@ -49,5 +49,4 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ## Acknowledgements  
-- Thanks to [Google AI studio]((https://aistudio.google.com/)) for providing AI APIs used in this project.  
-```
+- Thanks to [Google AI studio]((https://aistudio.google.com/)) for providing AI APIs used in this project. 
